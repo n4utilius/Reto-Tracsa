@@ -1,0 +1,24 @@
+En esta carpeta se encuentran los siguientes archivos 
+
+- Propuesta 2. 
+	Que es la explicación de la propuesta del reto dos de tracsa. Se incluyo por que 
+	de hecho comparte practicamente el mismo flujo y usabilidad que la app del reto 1 
+	que aqui se presenta
+
+- Codigo de los web services (CATTaaS)
+	Incluye metodos para dar de alta contratos de mantenimiento a clientes, ordenes 
+	de mantenimiento asi como su ejecucion y registro por los tecnico de servicio
+
+	El servicio esta montado en bluemix de IBM en la liga http://cattaas.mybluemix.net/ 
+
+	Para acceder a la documentacion de esta api, se debe de tener instalada la 
+	extencion para chrome "POSTMAN" y posteriormente dar click al boton import 
+	collection
+
+	En la seccion import from URL colocar la siguiente
+	https://www.getpostman.com/collections/f434b54b517e1eea114a
+
+	de esta manera se tendran funcionales de cada método del api
+
+- Aplicacion en Android
+	se encuentra en la siguiente direccion
